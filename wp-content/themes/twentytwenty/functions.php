@@ -232,7 +232,7 @@ function twentytwenty_skip_link_focus_fix() {
 	<?php
 }
 add_action( 'wp_print_footer_scripts', 'twentytwenty_skip_link_focus_fix' );
-gity
+
 /** Enqueue non-latin language styles
  *
  * @since Twenty Twenty 1.0
